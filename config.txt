@@ -1,0 +1,7 @@
+sweeps=1280
+thermalization=1000
+nskip=10
+L=3
+T=0.8
+configs
+op
